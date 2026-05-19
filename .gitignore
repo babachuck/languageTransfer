@@ -1,8 +1,8 @@
 # Local Netlify folder
 .netlify
 
-# Local config (API keys — keep private)
-src/config/localConfig.js
+# Build output
+dist/
 
 # Build output
 dist/
